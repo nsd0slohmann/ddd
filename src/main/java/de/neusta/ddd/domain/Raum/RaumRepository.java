@@ -1,4 +1,4 @@
-package de.neusta.ddd.domain.raum;
+package de.neusta.ddd.domain.Raum;
 
 import java.util.Map;
 

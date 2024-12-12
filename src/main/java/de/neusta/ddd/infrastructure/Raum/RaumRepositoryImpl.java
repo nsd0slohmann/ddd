@@ -1,7 +1,7 @@
 package de.neusta.ddd.infrastructure.Raum;
 
-import de.neusta.ddd.domain.raum.RaumRepository;
-import de.neusta.ddd.domain.raum.Raum;
+import de.neusta.ddd.domain.Raum.RaumRepository;
+import de.neusta.ddd.domain.Raum.Raum;
 import org.springframework.stereotype.Repository;
 
 import java.util.HashMap;

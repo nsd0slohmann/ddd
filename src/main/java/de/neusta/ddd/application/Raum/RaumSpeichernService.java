@@ -1,8 +1,8 @@
 package de.neusta.ddd.application.Raum;
 
-import de.neusta.ddd.domain.raum.RaumRepository;
-import de.neusta.ddd.domain.raum.Raum;
-import de.neusta.ddd.domain.raum.RaumDto;
+import de.neusta.ddd.domain.Raum.RaumRepository;
+import de.neusta.ddd.domain.Raum.Raum;
+import de.neusta.ddd.domain.Raum.RaumDto;
 import jakarta.annotation.Resource;
 import org.springframework.stereotype.Service;
 

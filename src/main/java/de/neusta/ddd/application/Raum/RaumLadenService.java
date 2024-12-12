@@ -3,10 +3,9 @@ package de.neusta.ddd.application.Raum;
 import de.neusta.ddd.application.Person.PersonLadeService;
 import de.neusta.ddd.domain.Person.Person;
 import de.neusta.ddd.domain.Person.PersonDto;
-import de.neusta.ddd.domain.Person.PersonRepository;
-import de.neusta.ddd.domain.raum.RaumDto;
-import de.neusta.ddd.domain.raum.RaumRepository;
-import de.neusta.ddd.domain.raum.Raum;
+import de.neusta.ddd.domain.Raum.RaumDto;
+import de.neusta.ddd.domain.Raum.RaumRepository;
+import de.neusta.ddd.domain.Raum.Raum;
 import jakarta.annotation.Resource;
 import org.springframework.stereotype.Service;
 

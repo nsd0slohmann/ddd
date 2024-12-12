@@ -1,4 +1,4 @@
-package de.neusta.ddd.domain.raum;
+package de.neusta.ddd.domain.Raum;
 
 import de.neusta.ddd.domain.Person.Person;
 import org.apache.commons.lang3.math.NumberUtils;
